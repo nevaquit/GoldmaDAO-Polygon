@@ -1,5 +1,5 @@
 # [Goldma Frontend](https://app.goldmadao.com/)
-This is the front-end repo for Goldma that allows users be part of the future of Greece. 
+This is the front-end repo for Goldma that allows users be part of the future of solving the worlds global issues as descibed in the UN 2030 SDGs. 
 
 ##  🔧 Setting up Local Development
 
