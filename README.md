@@ -1,4 +1,4 @@
-# [Hector Frontend](https://app.goldmadao.com/)
+# [Goldma Frontend](https://app.goldmadao.com/)
 This is the front-end repo for Goldma that allows users be part of the future of Greece. 
 
 ##  🔧 Setting up Local Development
