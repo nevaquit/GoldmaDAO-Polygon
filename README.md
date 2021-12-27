@@ -1,5 +1,5 @@
-# [Hector Frontend](https://app.hectordao.com/)
-This is the front-end repo for Hector that allows users be part of the future of Greece. 
+# [Hector Frontend](https://app.goldmadao.com/)
+This is the front-end repo for Goldma that allows users be part of the future of Greece. 
 
 ##  🔧 Setting up Local Development
 
@@ -10,7 +10,7 @@ Required:
 
 
 ```bash
-$ git clone https://github.com/Hector-DAO/HectorDAO.git
+$ git clone https://github.com/GoldmaDAO-Polygon/GoldmaDAO-Polygon.git
 $ cd hectordao
 
 # set up your environment variables
