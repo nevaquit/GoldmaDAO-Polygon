@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 40" width="39" height="40">
+	<title>klima</title>
+	<defs>
+		<image  width="30" height="30" id="klima" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAmCAMAAAB01KKfAAAAAXNSR0IB2cksfwAAAddQTFRF////9fX1lJSUISEhAQEBAAAAHx8fkJCQ9PT0ysrKNjY2MzMzx8fHyMjIGBgYFRUVxMTENDQ0Ly8v8/Pzf39/dXV1ERERDQ0NAz0DDekNDvQODu0ODu4ODuwODu8ODvAODvMOAz8DB4QHDvIOD+8PD+4PD+8ODvEOBEYEARABDM4ME1YSEycRBAcEAwUDGsUZBmgGARYBEtUSIU4gDNQMCCEIDr0NBy8GDbwNDcUNBU4FDXYNAAgADZINARUBD80OAgQCDusOAQ8BE6wTDeENC6kLCXkJB0gHD90PAQ4BEaIQCZwJCqQKCZsJDtkOEOUPC8oLCaoJCrIKELAQDtoODuQOCawJFcoVDeYNDBsLD7APAh0CDGYLBmQGB30HE7oTBS0FDd0NAgICDucOD9sPAhECCYoJDNgMFjIVAQIBGasYAgMCEOgQAhgCByUGCqsKEygSD/APEOkQCZ8JEjMRDRULBgoFBAYEAiQCAzEDCI0ID/EPBV0FEOoQB4EHCJMIDMMMDb8MBFIECrMKDecNDeANDMsMARcBLS0tCgoKCQkJvb29gICAenp6XFxcAwMDWFhY8vLy+Pj4np6eLCwsKCgomZmZ9/f3p6enU1NTMjIyUVFRo6OjpaDSxgAAAJ10Uk5TAAD///////8A/////////////wD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAA/////wD///////+2vhcAAAHkSURBVHicjdRnd9MwFAZgAb6sMgph9bWxLyixoEBZZY/W7D3Lng2j7L33puy9Cj8WWS4HK7GTvh/uPU6eoxsdORJCiH79BziUk4GDBguTIUNzjY7TMCxGw0fUMHFGNupxo+ogotEFMaYuIhorxvVBjRd9QESJmtAEwPXcia7v+W7gex6YWX/Gk1KKJkugWAqLYRgGQaCKMlFqytS0ImrGtIox00vSnhhH8gwLtczErGo1m+dYaq5sompFrTzP9PmmLgAq95hEmd+xEIvMg6JstZiX6Ko3t5RoGZbnKFLcQm0geNQuI8pTK3jlKqymNbx2HdbnKoqADbptlNhEWWpzfB4mzNEWIAxL4dbmbdtttUMh0KcH7Ozo2KUAfZS+lHJ31kTeozhuLgeZE0328j5in/bjwEE+lKcO4wjRUY7QSRRwnpKlsq7HcFzXE3wyW3XhVNxOnzkbN2uxlJLnkv9lUs/zhSx1EZesfanLToaSVyxEV/latYpw/cbNFLp1+87d9kp1D/I+48F/9fBRJx4/sdVThsfg1Ov57Ll60dr1sleVe9ey3pSKOKKhxrf/0i0aX9VFr98I8bbWHWfmvdO3XOH9h5qo/PFTfBl+/vI1fznn2/cfycUqCj9/9XRnpef3H7PQX4xQZs1H2oVhAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#klima" x="0" y="0" />
+</svg>
