@@ -11,7 +11,7 @@ Required:
 
 ```bash
 $ git clone https://github.com/GoldmaDAO-Polygon/GoldmaDAO-Polygon.git
-$ cd hectordao
+$ cd Goldmadao
 
 # set up your environment variables
 # read the comments in the .env files for what is required/optional
